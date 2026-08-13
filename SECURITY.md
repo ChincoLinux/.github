@@ -6,15 +6,13 @@
 
 ### Cómo reportar / How to report
 
-Usa uno de estos canales privados:
+Usa el canal privado oficial:
 
-1. **GitHub Security Advisories** (preferido / preferred)
-   - En el repositorio afectado: pestaña *Security* → *Report a vulnerability*.
-   - Completa el formulario privado.
-2. **Email de la organización** / Organization contact email
-   - Envía a: `dh8939693@gmail.com`
-   - Asunto / Subject: `CHINCOLINUX SECURITY: <descripción corta>`
-   - Incluye: versión afectada, entorno, impacto y pasos de reproducción.
+**GitHub Security Advisories** (único canal / only channel)
+- En el repositorio afectado: pestaña *Security* → *Report a vulnerability*.
+- Completa el formulario privado: versión/rama afectada, entorno, impacto y pasos de reproducción.
+
+Los reports se gestionan con **Private Vulnerability Reporting**; no se aceptan reportes por email ni por canales públicos.
 
 ### Tiempos de respuesta / Response timeline
 
