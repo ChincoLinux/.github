@@ -37,6 +37,13 @@ La nominación la hace un mantenedor existente y se aprueba por mayoría simple 
 - Permiso por defecto para miembros: **lectura**.
 - La creación de repositorios está restringida a admins.
 - Todo repositorio de la org adopta este modelaje de equipo, plantillas y flujo de PR.
+- `main` está protegido por **ruleset** en repositorios públicos: los cambios entran solo por PR con aprobación de `core-devs`; se documenta en cada repositorio.
+
+## Seguridad de la cuenta / Account security
+
+- La **autenticación de dos factores (2FA)** es requisito de membresía: los mantenedores con acceso de escritura y el equipo `core-devs` deben tener 2FA activa en su cuenta de GitHub.
+- La verificación de 2FA se realiza al aceptar nuevas membresías e invitaciones.
+- Reportes de vulnerabilidades: ver [SECURITY.md](SECURITY.md) — canal único vía GitHub Security Advisories.
 
 ## Aprobación y cambios a este documento
 
