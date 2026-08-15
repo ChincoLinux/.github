@@ -17,12 +17,13 @@ Este repositorio no contiene producto: es la **casa administrativa** de la organ
 | [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Templates de issues (bug, feature) |
 | [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | Template de PR para todos los repos |
 | [`.github/workflows/auto-add-to-project.yml`](.github/workflows/auto-add-to-project.yml) | CI: auto-add issues/PRs al Project Board |
+| [`.github/workflows/weekly-issue-assignment.yml`](.github/workflows/weekly-issue-assignment.yml) | CI: auto-asignación semanal de issues al equipo |
 
 GitHub usa los archivos de este repositorio como **defaults de community health** para todos los repositorios de la organización.
 
 ## Project Board
 
-**[Roadmap Yap + ChincoLinux OS](https://github.com/orgs/ChincoLinux/projects/3)** — tablero kanban con todos los issues y PRs de la organización, organizados por fase, sprint, fechas y esfuerzo.
+**[Roadmap Yap + ChincoLinux OS](https://github.com/orgs/ChincoLinux/projects/3)** — tablero kanban con todos los issues y PRs de la organización, con auto-asignación semanal de responsables.
 
 ## Flujo de cambios / Change flow
 
